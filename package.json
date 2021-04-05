@@ -1,6 +1,6 @@
 {
   "name": "nice-grpc-server-reflection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Server reflection for nice-grpc",
   "keywords": [
     "grpc",
@@ -27,7 +27,7 @@
   },
   "author": "Daniel Lytkin <aikoven@deeplay.io>",
   "license": "MIT",
-  "devDependencies": {    
+  "devDependencies": {
     "@types/jest": "^26.0.14",
     "grpc-tools": "^1.11.0",
     "grpc_tools_node_protoc_ts": "^5.1.3",

@@ -1,5 +1,7 @@
 # nice-grpc-server-reflection
 
+> This package was moved to [`nice-grpc`](https://github.com/deeplay-io/nice-grpc) monorepo.
+
 [Server Reflection](https://github.com/grpc/grpc/blob/master/doc/server-reflection.md)
 for [nice-grpc](https://github.com/deeplay-io/nice-grpc).
 
